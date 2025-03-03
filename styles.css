@@ -33,6 +33,7 @@ body {
   display: block;
   margin-bottom: 0.5rem;
   color: #555;
+  text-align: left;
 }
 
 .input-group input {
