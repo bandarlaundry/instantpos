@@ -23,7 +23,8 @@ body {
   max-width: 400px;
 }
 
-.login-form h2 {
+.login-form h2,
+.content h2 {
   text-align: center;
   margin-bottom: 1.5rem;
   color: #333;
@@ -72,6 +73,11 @@ body {
   text-align: center;
   margin-top: 1rem;
   display: none;
+}
+
+.content {
+  text-align: center;
+  margin-top: 1rem;
 }
 
 @media (max-width: 600px) {
